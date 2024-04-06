@@ -2,7 +2,7 @@
 
 .  ..s..s.s.ssss.
 :  ::$::$:$:$$$$$
-`  ``ı``ı`ı`ıııı'.$$$     .$$$ $$$$$$$$$$ .$$$   .$$ .$$$ .$$$$$$$$$$ .$$$$$$$$
+`  ``Â²``Â²`Â²`Â²Â²Â²Â²'.$$$     .$$$ $$$$$$$$$$ .$$$   .$$ .$$$ .$$$$$$$$$$ .$$$$$$$$
    .  . . .$$$$ .$$$$    .$$$$ $$$   .$$'.$$$'  .$$'.$$$'.$$$$'  .$$'.$$$' .$$'
   .  . . .$$$$'.$$$$$   .$$'.$ $$$  .$$'.$$$'  .$$'.$$$'.$$$$'  .$$'.$$$' .$$'
  .  . . .$$$$'.$$$$'$  .$$'.$$ $$$ .$$'.$$$'  .$$'.$$$'.$$$$'      .$$$'
@@ -15,11 +15,11 @@
         ..                                                           ..
     .s$$$$$. .sssssssssssssssssssssssssssssssssssssssssssssssssss. .$$$$$s.
    `$$.  `$$.   .ssss. .ssss. .ssss. .sss. .s  ss .sss. .ssss.    .$$'  .$$'
-    `$$   `$$   ıss.`$ $. ``$ $' .$$ $. `$ $$.sı' $. `$ $. ``$    $$'   $$'
-  ds.`$ ds.`$     $$ ' $$ssı' $ssı$$ $$    $$S    $$ı   $$ssı'    $'.sb $'.sb
- $$$$.$ $$$.$     $$   $$`ıs. $   $$ $$..$ $$`ıs. $$..$ $$`ıs.    $.$$$ $.$$$$
- Y$$$$'.$$$$'.cC! ıı   ıı  ıı ı   ıı `ııı' ıı  ıı `ııı' ıı  ıı    `$$$$.`$$$$Y
-  `ı'   `ı'  `ııııııııııııııııııııııııııııııııııııııııııııııııııı'  `ı'   `ı'
+    `$$   `$$   Â²ss.`$ $. ``$ $' .$$ $. `$ $$.sÂ²' $. `$ $. ``$    $$'   $$'
+  ds.`$ ds.`$     $$ ' $$ssÂ²' $ssÂ²$$ $$    $$S    $$Â²   $$ssÂ²'    $'.sb $'.sb
+ $$$$.$ $$$.$     $$   $$`Â²s. $   $$ $$..$ $$`Â²s. $$..$ $$`Â²s.    $.$$$ $.$$$$
+ Y$$$$'.$$$$'.cC! Â²Â²   Â²Â²  Â²Â² Â²   Â²Â² `Â²Â²Â²' Â²Â²  Â²Â² `Â²Â²Â²' Â²Â²  Â²Â²    `$$$$.`$$$$Y
+  `Â²'   `Â²'  `Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²Â²'  `Â²'   `Â²'
      
 
                                  User's Manual
@@ -79,17 +79,17 @@
         computer (although a 486+ is recommended), and a VGA or higher video
         card. If you want to hear sound, you'll need one of the following:
 
-            ş Sound Blaster series (or most compatibles)
-            ş Pro Audio Spectrum
-            ş Windows Sound System
-            ş ESS ES1868 AudioDrive
-            ş Ensoniq SoundscapeVIVO
-            ş EWS64XL Soundcards
-            ş Gravis UltraSound
-            ş Interwave based board
-            ş Generic MPU401 for MIDI Input/Output
-            ş DAC on LPT1/LPT2
-            ş PC Speaker
+            â–  Sound Blaster series (or most compatibles)
+            â–  Pro Audio Spectrum
+            â–  Windows Sound System
+            â–  ESS ES1868 AudioDrive
+            â–  Ensoniq SoundscapeVIVO
+            â–  EWS64XL Soundcards
+            â–  Gravis UltraSound
+            â–  Interwave based board
+            â–  Generic MPU401 for MIDI Input/Output
+            â–  DAC on LPT1/LPT2
+            â–  PC Speaker
 
         Note that stereo effects (including surround sound) can only be
         experienced on software mixed stereo cards. Hardware mixed soundcards
@@ -447,13 +447,13 @@
         (You can configure the pattern editor .. press F1 in the pattern
          editor, then page down to find the Track View options.)
 
-        ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
-        ³C-5 01 23 A02³E-5 02 64 D01³ùùù ùù ùù .00³ùùù ùù ùù .00³ùùù ùù ùù .00³
-        ³ùùù ùù ùù .00³ùùù ùù ùù .00³ùùù ùù ùù .00³ùùù ùù ùù .00³ùùù ùù ùù .00³
-        ³ùùù ùù ùù .00³ùùù ùù ùù .00³ùùù ùù ùù .00³ùùù ùù ùù .00³ùùù ùù ùù .00³
-        ³ùùù ùù ùù .00³ùùù ùù ùù .00³ùùù ùù ùù .00³ùùù ùù ùù .00³ùùù ùù ùù .00³
-        ³ùùù ùù ùù .00³ùùù ùù ùù .00³ùùù ùù ùù .00³ùùù ùù ùù .00³ùùù ùù ùù .00³
-        ³ùùù ùù ùù .00³ùùù ùù ùù .00³ùùù ùù ùù .00³ùùù ùù ùù .00³ùùù ùù ùù .00³
+        â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+        â”‚C-5 01 23 A02â”‚E-5 02 64 D01â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ .00â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ .00â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ .00â”‚
+        â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ .00â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ .00â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ .00â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ .00â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ .00â”‚
+        â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ .00â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ .00â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ .00â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ .00â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ .00â”‚
+        â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ .00â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ .00â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ .00â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ .00â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ .00â”‚
+        â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ .00â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ .00â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ .00â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ .00â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ .00â”‚
+        â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ .00â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ .00â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ .00â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ .00â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ .00â”‚
                         ^   ^  ^  ^
      Component Columns: 1   2  3  4
 
@@ -462,12 +462,12 @@
             Notes are entered by using the keyboard as such:
 
     (Note)         C# D#    F# G# A#    C# D#    F# G# A#    C# D#
-                ³ ³ ³³ ³ ³ ³ ³³ ³³ ³ ³ ³ ³³ ³ ³ ³ ³³ ³³ ³ ³ ³ ³³ ³ ³
-                ³ ³ ³³ ³ ³ ³ ³³ ³³ ³ ³ ³ ³³ ³ ³ ³ ³³ ³³ ³ ³ ³ ³³ ³ ³
-    (What you   ³ ³S³³D³ ³ ³G³³H³³J³ ³ ³2³³3³ ³ ³5³³6³³7³ ³ ³9³³0³ ³
-     type)      ³ ÀÂÙÀÂÙ ³ ÀÂÙÀÂÙÀÂÙ ³ ÀÂÙÀÂÙ ³ ÀÂÙÀÂÙÀÂÙ ³ ÀÂÙÀÂÙ ³
-                ³ Z³ X³ C³ V³ B³ N³ M³ Q³ W³ E³ R³ T³ Y³ U³ I³ O³ P³
-                ÀÄÄÁÄÄÁÄÄÁÄÄÁÄÄÁÄÄÁÄÄÁÄÄÁÄÄÁÄÄÁÄÄÁÄÄÁÄÄÁÄÄÁÄÄÁÄÄÁÄÄÙ
+                â”‚ â”‚ â”‚â”‚ â”‚ â”‚ â”‚ â”‚â”‚ â”‚â”‚ â”‚ â”‚ â”‚ â”‚â”‚ â”‚ â”‚ â”‚ â”‚â”‚ â”‚â”‚ â”‚ â”‚ â”‚ â”‚â”‚ â”‚ â”‚
+                â”‚ â”‚ â”‚â”‚ â”‚ â”‚ â”‚ â”‚â”‚ â”‚â”‚ â”‚ â”‚ â”‚ â”‚â”‚ â”‚ â”‚ â”‚ â”‚â”‚ â”‚â”‚ â”‚ â”‚ â”‚ â”‚â”‚ â”‚ â”‚
+    (What you   â”‚ â”‚Sâ”‚â”‚Dâ”‚ â”‚ â”‚Gâ”‚â”‚Hâ”‚â”‚Jâ”‚ â”‚ â”‚2â”‚â”‚3â”‚ â”‚ â”‚5â”‚â”‚6â”‚â”‚7â”‚ â”‚ â”‚9â”‚â”‚0â”‚ â”‚
+     type)      â”‚ â””â”¬â”˜â””â”¬â”˜ â”‚ â””â”¬â”˜â””â”¬â”˜â””â”¬â”˜ â”‚ â””â”¬â”˜â””â”¬â”˜ â”‚ â””â”¬â”˜â””â”¬â”˜â””â”¬â”˜ â”‚ â””â”¬â”˜â””â”¬â”˜ â”‚
+                â”‚ Zâ”‚ Xâ”‚ Câ”‚ Vâ”‚ Bâ”‚ Nâ”‚ Mâ”‚ Qâ”‚ Wâ”‚ Eâ”‚ Râ”‚ Tâ”‚ Yâ”‚ Uâ”‚ Iâ”‚ Oâ”‚ Pâ”‚
+                â””â”€â”€â”´â”€â”€â”´â”€â”€â”´â”€â”€â”´â”€â”€â”´â”€â”€â”´â”€â”€â”´â”€â”€â”´â”€â”€â”´â”€â”€â”´â”€â”€â”´â”€â”€â”´â”€â”€â”´â”€â”€â”´â”€â”€â”´â”€â”€â”´â”€â”€â”˜
     (Note)        C  D  E  F  G  A  B  C  D  E  F  G  A  B  C  D  E
                  (Octave 0)           (Octave 1)           (Octave 2)
 
@@ -499,11 +499,11 @@
 
                 Examples of interpretation:
 
-                ³C-4 01 ùù .ùù³ - will play note C octave 4, instrument 1
-                ³D-4 ùù ùù .ùù³ - will play note D, octave 4, instrument 1
-                ³ùùù 02 ùù .ùù³ - Will play note D, octave 4, instrument 2
-                ³E-4 ùù ùù .ùù³ - will play note E, octave 4, instrument 2
-                ³G-6 12 ùù .ùù³ - will play note G, octave 6, instrument 12
+                â”‚C-4 01 âˆ™âˆ™ .âˆ™âˆ™â”‚ - will play note C octave 4, instrument 1
+                â”‚D-4 âˆ™âˆ™ âˆ™âˆ™ .âˆ™âˆ™â”‚ - will play note D, octave 4, instrument 1
+                â”‚âˆ™âˆ™âˆ™ 02 âˆ™âˆ™ .âˆ™âˆ™â”‚ - Will play note D, octave 4, instrument 2
+                â”‚E-4 âˆ™âˆ™ âˆ™âˆ™ .âˆ™âˆ™â”‚ - will play note E, octave 4, instrument 2
+                â”‚G-6 12 âˆ™âˆ™ .âˆ™âˆ™â”‚ - will play note G, octave 6, instrument 12
 
          2) The second column contains the sample/instrument, depending on
             whether the tracker is operating in sample mode, or instrument
@@ -545,8 +545,8 @@
             value.... What I mean is that if you want to play a note at volume
             32, pan 48, with vibrato H81, then you can do the following:
 
-                ³ùùù ùù ùù M20³ - Set channel volume to HALF.
-                ³C-4 01 48 H81³ - The 48 is a pan command - this assumes that
+                â”‚âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ M20â”‚ - Set channel volume to HALF.
+                â”‚C-4 01 48 H81â”‚ - The 48 is a pan command - this assumes that
                                   the default volume for sample/instrument 1
                                   is 64.
 
@@ -593,34 +593,34 @@
             Due to the repetitive nature of some effects, there is a
             'memory' so that instead of typing:
 
-                ùùù ùù ùù G12     It is easier to   ùùù ùù ùù G12
-                ùùù ùù ùù G12     use:              ùùù ùù ùù G00
-                ùùù ùù ùù G12                       ùùù ùù ùù G00
-                ùùù ùù ùù G12                       ùùù ùù ùù G00
-                ùùù ùù ùù G12                       ùùù ùù ùù G00
-                ùùù ùù ùù G12                       ùùù ùù ùù G00
-                ùùù ùù ùù G12                       ùùù ùù ùù G00
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ G12     It is easier to   âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ G12
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ G12     use:              âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ G00
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ G12                       âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ G00
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ G12                       âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ G00
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ G12                       âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ G00
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ G12                       âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ G00
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ G12                       âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ G00
 
            The following effects 'memorise' their previous values:
             (D/K/L), (E/F/G), (HU), I, J, N, O, S, T, W
 
            Note: Bracketed commands share the same 'memory' value. So
 
-                ùùù ùù ùù E12   can be written as:  ùùù ùù ùù E12
-                ùùù ùù ùù F12                       ùùù ùù ùù F00
-                ùùù ùù ùù E12                       ùùù ùù ùù E00
-                ùùù ùù ùù F12                       ùùù ùù ùù F00
-                C-4 01 ùù G12                       C-4 01 ùù G00
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ E12   can be written as:  âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ E12
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ F12                       âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ F00
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ E12                       âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ E00
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ F12                       âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ F00
+                C-4 01 âˆ™âˆ™ G12                       C-4 01 âˆ™âˆ™ G00
 
                 Commands H and U are linked even more closely.
                 If you use H00 or U00, then the previous vibrato, no matter
                 whether it was set with Hxx or Uxx will be used. So:
 
-                ùùù ùù ùù H81    Is the same as:    ùùù ùù ùù H81
-                ùùù ùù ùù U00                       ùùù ùù ùù H81
-                ùùù ùù ùù U83                       ùùù ùù ùù U83
-                ùùù ùù ùù U00                       ùùù ùù ùù U83
-                ùùù ùù ùù H00                       ùùù ùù ùù U83
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ H81    Is the same as:    âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ H81
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ U00                       âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ H81
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ U83                       âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ U83
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ U00                       âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ U83
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ H00                       âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ U83
 
             Hex Numbers
                 Note: Impulse Tracker works ENTIRELY with decimal numbers
@@ -752,10 +752,10 @@
                   This command requires 2 parameters: A note to slide to
                   and a speed. Example:
 
-                        C-4 01 ùù .00
-                        G-4 01 ùù G08
-                        ùùù ùù ùù G00
-                        ùùù ùù ùù G00
+                        C-4 01 âˆ™âˆ™ .00
+                        G-4 01 âˆ™âˆ™ G08
+                        âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ G00
+                        âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ G00
 
                   This will cause the note C-4 to slide to G-4 with speed 8.
 
@@ -783,7 +783,7 @@
                   halftones above. This causes an effect similar to old
                   C-64 chords.
 
-                  Example: C-4 01 ùù J47 will cause the notes C-4, E-4 and
+                  Example: C-4 01 âˆ™âˆ™ J47 will cause the notes C-4, E-4 and
                   G-4 to be cycled.
 
           Kxx   Dual command: Vibrato + Dxx (Volume slide)
@@ -890,9 +890,9 @@
                         1, notes C-4 & D-4 map to a looped sample, and the
                         New Note Action is set to continue.
 
-                        C-4 01 64 .ùù
-                        D-4 01 64 .ùù
-                        E-4 01 64 .ùù <--- Use S70 here!
+                        C-4 01 64 .âˆ™âˆ™
+                        D-4 01 64 .âˆ™âˆ™
+                        E-4 01 64 .âˆ™âˆ™ <--- Use S70 here!
 
                   Ordinarily, control would be lost over C-4 and D-4, but
                   using command S70 at the point indicated, the notes C-4
@@ -998,7 +998,7 @@
           T1x   Tempo slide up
 
                 Tempo slides up and down are used to smoothly modify the
-                speed of the song. The tempo is modified by ñx every
+                speed of the song. The tempo is modified by Â±x every
                 non-row frame.
 
           Uxy   Fine vibrato with speed x, depth y
@@ -1174,23 +1174,23 @@
             the same effects following each note. eg.
 
                 C-4 01 00 D10   }
-                ùùù ùù ùù D00   }
-                ùùù ùù ùù D00   } Enter this....
-                ùùù ùù ùù D00   }
-                ùùù ùù ùù D02   }
-                ùùù ùù ùù D00   }
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ D00   }
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ D00   } Enter this....
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ D00   }
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ D02   }
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ D00   }
                 D-4 01 00 D10     }
-                ùùù ùù ùù D00     }
-                ùùù ùù ùù D00     }
-                ùùù ùù ùù D00     }
-                ùùù ùù ùù D02     }
-                ùùù ùù ùù D00     } Use the templates to enter this!
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ D00     }
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ D00     }
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ D00     }
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ D02     }
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ D00     } Use the templates to enter this!
                 E-4 01 00 D10     }
-                ùùù ùù ùù D00     }
-                ùùù ùù ùù D00     }
-                ùùù ùù ùù D00     }
-                ùùù ùù ùù D02     }
-                ùùù ùù ùù D00     }
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ D00     }
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ D00     }
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ D00     }
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ D02     }
+                âˆ™âˆ™âˆ™ âˆ™âˆ™ âˆ™âˆ™ D00     }
                 etc..
 
             With templates, this can be done by entering the first 'block',
@@ -1431,10 +1431,10 @@
          Example: If you're on instrument 1, and the note translation table
          appears as such:
 
-                C-5³C-5 01
-                C#5³C-5 02
-                D-5³D-4 03
-                D#5³D#4 03
+                C-5â”‚C-5 01
+                C#5â”‚C-5 02
+                D-5â”‚D-4 03
+                D#5â”‚D#4 03
 
          Then entering "C-5 01" into a pattern will cause sample 1 to be
          played at pitch C-5, "C#5 01", wil cause sample 2, to be played a
@@ -1540,11 +1540,11 @@
 
           Example: If the DCT is set to note, and DCA is set to Cut, then the
                     asterixed notes will cut out the tilda notes
-        ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
-        ³  C-4 01 ~     ³     C-4 02 ~      ³   C-4 03 }                    ³
-        ³  D-4 01       ³     C-4 02 *   ~  ³   D-4 03 } Nothing get's cut. ³
-        ³  C-4 01 *     ³     C-4 02     *  ³   C-4 02 }                    ³
-        ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+        â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+        â”‚  C-4 01 ~     â”‚     C-4 02 ~      â”‚   C-4 03 }                    â”‚
+        â”‚  D-4 01       â”‚     C-4 02 *   ~  â”‚   D-4 03 } Nothing get's cut. â”‚
+        â”‚  C-4 01 *     â”‚     C-4 02     *  â”‚   C-4 02 }                    â”‚
+        â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
 
         This option was included to help limit the number of active channels,
         and is especially useful for drum tracks.
@@ -1601,39 +1601,39 @@
 
                   And the following column within any pattern:
 
-                        C-5 01 ùù .ùù
-                        C-5 03 ùù .ùù
-                        C-5 03 ùù .ùù
-                        C-5 03 ùù .ùù
-                        C-5 02 ùù .ùù
-                        C-5 04 ùù .ùù
-                        C-5 01 ùù .ùù
-                        C-5 04 ùù .ùù
-                        C-5 01 ùù .ùù
+                        C-5 01 âˆ™âˆ™ .âˆ™âˆ™
+                        C-5 03 âˆ™âˆ™ .âˆ™âˆ™
+                        C-5 03 âˆ™âˆ™ .âˆ™âˆ™
+                        C-5 03 âˆ™âˆ™ .âˆ™âˆ™
+                        C-5 02 âˆ™âˆ™ .âˆ™âˆ™
+                        C-5 04 âˆ™âˆ™ .âˆ™âˆ™
+                        C-5 01 âˆ™âˆ™ .âˆ™âˆ™
+                        C-5 04 âˆ™âˆ™ .âˆ™âˆ™
+                        C-5 01 âˆ™âˆ™ .âˆ™âˆ™
 
                   You can combine these four samples into one instrument by
                   creating the instrument->note/sample table with the
                   following entries: (say for instrument 10)
 
-                        C-5³C-5 01
-                        C#5³C-5 ùù        <--- just an empty slot...
-                        D-5³C-5 02
-                        D#5³C-5 ùù
-                        E-5³C-5 03
-                        F-5³C-5 04
+                        C-5â”‚C-5 01
+                        C#5â”‚C-5 âˆ™âˆ™        <--- just an empty slot...
+                        D-5â”‚C-5 02
+                        D#5â”‚C-5 âˆ™âˆ™
+                        E-5â”‚C-5 03
+                        F-5â”‚C-5 04
 
                   And using the update pattern data command will produce the
                   following
 
-                        C-5 10 ùù .ùù
-                        E-5 10 ùù .ùù
-                        E-5 10 ùù .ùù
-                        E-5 10 ùù .ùù
-                        D-5 10 ùù .ùù
-                        F-5 10 ùù .ùù
-                        C-5 10 ùù .ùù
-                        F-5 10 ùù .ùù
-                        C-5 10 ùù .ùù
+                        C-5 10 âˆ™âˆ™ .âˆ™âˆ™
+                        E-5 10 âˆ™âˆ™ .âˆ™âˆ™
+                        E-5 10 âˆ™âˆ™ .âˆ™âˆ™
+                        E-5 10 âˆ™âˆ™ .âˆ™âˆ™
+                        D-5 10 âˆ™âˆ™ .âˆ™âˆ™
+                        F-5 10 âˆ™âˆ™ .âˆ™âˆ™
+                        C-5 10 âˆ™âˆ™ .âˆ™âˆ™
+                        F-5 10 âˆ™âˆ™ .âˆ™âˆ™
+                        C-5 10 âˆ™âˆ™ .âˆ™âˆ™
 
   2.6  Song Variables
 
@@ -1828,7 +1828,7 @@
         p) Samples have sustain loops + Ping Pong loops supported
         q) Note off command & Note cut command implemented... Note cut is
            exactly like ST3's ^^^ (and appears like it too!) Note off
-           appears as "ÍÍÍ" and releases sustain points.
+           appears as "â•â•â•" and releases sustain points.
         r) You can enter panning values (between 0 and 64) in the volume
            column. Do this by pressing '`' to toggle between entry of
            panning/volume values.
@@ -1915,7 +1915,7 @@
         All conditions with an asterix preceding them are checked at save
         time.
 
-        Note that both note off (ÍÍÍ) and note cut (^^^) will get translated
+        Note that both note off (â•â•â•) and note cut (^^^) will get translated
         to a note cut (^^^) in S3M format.
 
  2.8  Gravis UltraSound / Interwave / AWE32 users.

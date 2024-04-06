@@ -2,7 +2,7 @@
         .code
 ;
 ; Canadian french keyboard layout for IT by Delta X
-; En passant: Salut Ö tous les franáais dans le monde!!  :)
+; En passant: Salut √† tous les fran√ßais dans le monde!!  :)
 ;
 ; to create the file:
 ;  TASM <filename>
@@ -500,9 +500,9 @@ StartKeyboardTable:
 
         DB      53      ; /
          DB      0
-         DW      'Ç'
+         DW      '√©'
          DB      3
-         DW      'ê'
+         DW      '√â'
          DB      0FFh
 
         DB      55      ; XT/AT printscreen, Enhanced keyboard *

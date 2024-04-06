@@ -27,9 +27,9 @@ include reqproc.inc
 Index = BasePort + 802h
 
       15  14  13  12  11  10   9   8   7   6   5   4   3   2   1   0
-    ����������������������������������������������������������������Ŀ
-    � .............................. � Register  �  Channel Number   �
-    ������������������������������������������������������������������
+    ┌────────────────────────────────┬───────────┬───────────────────┐
+    │ .............................. │ Register  │  Channel Number   │
+    └────────────────────────────────┴───────────┴───────────────────┘
 
 
         ~
@@ -1011,7 +1011,7 @@ ScreenHeader2           DD      0
 
 AWEParameters   DB      64 Dup (0FFh), 64 Dup (0)
 
-;�������������������������������������������������������������������������������
+;───────────────────────────────────────────────────────────────────────────────
 
 Proc            SBOut           ; AL = data
                                 ; DX = 2xCh
@@ -1030,7 +1030,7 @@ SBOut1:
 
 EndP            SBOut
 
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            DetectUART              ; Given DX = Port
 
@@ -1109,7 +1109,7 @@ DetectUART9:
 
 EndP            DetectUART
 
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            ReinitUART
 
@@ -1124,7 +1124,7 @@ ReinitUART1:
 
 EndP            ReinitUART
 
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            ResetUART
 
@@ -1142,7 +1142,7 @@ ResetUART1:
 
 EndP            ResetUART
 
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            SetCompress Far
 
@@ -1160,7 +1160,7 @@ Proc            SetCompress Far
 
 EndP            SetCompress
 
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            GetCompress Far
 
@@ -1172,7 +1172,7 @@ Proc            GetCompress Far
 
 EndP            GetCompress
 
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            Load8BitSamplesForwards ; Given DS:SI, ECX = count
 
@@ -1204,7 +1204,7 @@ Load8BitSamplesForwards4:
 
 EndP            Load8BitSamplesForwards
 
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            Load16BitSamplesForwards ; Given DS:SI, ECX = count
 
@@ -1236,7 +1236,7 @@ Load16BitSamplesForwards4:
 
 EndP            Load16BitSamplesForwards
 
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            Load8BitSamplesBackwards ; Given DS:SI, ECX = count
 
@@ -1283,7 +1283,7 @@ Load8BitSamplesBackwards6:
 
 EndP            Load8BitSamplesBackwards
 
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            Load16BitSamplesBackwards ; Given DS:SI, ECX = count
 
@@ -1329,7 +1329,7 @@ Load16BitSamplesBackwards6:
 
 EndP            Load16BitSamplesBackwards
 
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            WriteDataChannel
 
@@ -1408,7 +1408,7 @@ EndP            WriteData
 
 EndP            WriteDataChannel
 
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            ReadDataChannel
 
@@ -1481,7 +1481,7 @@ EndP            ReadData
 
 EndP            ReadDataChannel
 
-;�������������������������������������������������������������������������������
+;───────────────────────────────────────────────────────────────────────────────
 
 Proc            SetAWEFrequency
 
@@ -1589,7 +1589,7 @@ SetAWEFrequencyError1:
 EndP            SetAWEFrequency
                 Assume DS:Nothing
 
-;�������������������������������������������������������������������������������
+;───────────────────────────────────────────────────────────────────────────────
 
 Proc            SetAWEPan
 
@@ -1624,7 +1624,7 @@ SetPan1:                        ; BL = 0->64, need to extend to 0->255
 
 EndP            SetAWEPan
 
-;�������������������������������������������������������������������������������
+;───────────────────────────────────────────────────────────────────────────────
 
 Proc            SetAWEVolume
 
@@ -1698,7 +1698,7 @@ SetAWEVolume3:
 
 EndP            SetAWEVolume
 
-;�������������������������������������������������������������������������������
+;───────────────────────────────────────────────────────────────────────────────
 
 Proc            StopAWENote
 
@@ -1788,7 +1788,7 @@ Proc            StopAWENote
 
 EndP            StopAWENote
 
-;�������������������������������������������������������������������������������
+;───────────────────────────────────────────────────────────────────────────────
 
 Proc            SetAWERegisters         ; DS:SI = channel info table
                                         ; CX = number of channels...
@@ -2085,7 +2085,7 @@ SetAWERegistersError:
 
 EndP            SetAWERegisters
 
-;�������������������������������������������������������������������������������
+;───────────────────────────────────────────────────────────────────────────────
 
 Proc            ACKIRQ
 
@@ -2101,7 +2101,7 @@ ACKIRQ1:
 
 EndP            ACKIRQ
 
-;�������������������������������������������������������������������������������
+;───────────────────────────────────────────────────────────────────────────────
 
 Proc            CheckMIDI
 
@@ -2146,7 +2146,7 @@ CheckMIDIEnd:
 EndP            CheckMIDI
                 Assume DS:Nothing
 
-;�������������������������������������������������������������������������������
+;───────────────────────────────────────────────────────────────────────────────
 
 Proc            MIDIIRQHandler
 
@@ -2172,7 +2172,7 @@ MIDIIRQHandlerEnd:
 
 EndP            MIDIIRQHandler
 
-;�������������������������������������������������������������������������������
+;───────────────────────────────────────────────────────────────────────────────
 
 Proc            SBIRQHandler
 
@@ -2282,7 +2282,7 @@ SBEndIRQ:
 EndP            SBIRQHandler
                 Assume DS:Nothing
 
-;�������������������������������������������������������������������������������
+;───────────────────────────────────────────────────────────────────────────────
 
 Proc            AWEIRQHandler                   ; IRQ Handler has to
                                                 ; 1) Update AWE registers
@@ -2326,7 +2326,7 @@ AWEIRQHandlerEnd:
 
 EndP            AWEIRQHandler
 
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            EnableRAM
 
@@ -2381,7 +2381,7 @@ EnableRAM1:
 
 EndP            EnableRAM
 
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            TestAWE                 ; Given DX = baseport.
 
@@ -2425,7 +2425,7 @@ TestAWE1:
 
 EndP            TestAWE
 
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            InitSetAWE
 
@@ -2489,7 +2489,7 @@ InitSetAWE4:
 
 EndP            InitSetAWE
 
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            InitAWE
 
@@ -2672,7 +2672,7 @@ InitAWE3:
 EndP            InitAWE
                 Assume DS:Nothing
 
-;�������������������������������������������������������������������������������
+;───────────────────────────────────────────────────────────────────────────────
 
 Proc            InitDRAMRefresh
 
@@ -2736,7 +2736,7 @@ Proc            InitDRAMRefresh
 EndP            InitDRAMRefresh
                 Assume DS:Nothing
 
-;�������������������������������������������������������������������������������
+;───────────────────────────────────────────────────────────────────────────────
 
 Proc            ResetDSP Far            ; AX = Port
 
@@ -2786,7 +2786,7 @@ ResetDSP4:
 
 EndP            ResetDSP
 
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            SBGetRegister
 
@@ -2799,7 +2799,7 @@ Proc            SBGetRegister
 
 EndP            SBGetRegister
 
-;�������������������������������������������������������������������������������
+;───────────────────────────────────────────────────────────────────────────────
 
 Proc            SBIn            ; DX = 2xEh, returns AL
 
@@ -2820,12 +2820,12 @@ SBIn1:
 
 EndP            SBIn
 
-; �� DetectCard ���������������������������������������������������������������
+; ── DetectCard ───────────────────────────────────────────────────────────────
 ;
 ; Returns carry set if error, else carry clear. Has to setup internal vars
 ; (eg. appropriate IRQ/DMA whatever).
 ;
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            DetectCard Far
 
@@ -3221,7 +3221,7 @@ DetectCardMemory6:
 EndP            DetectCard
                 Assume DS:Nothing
 
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            SetSamplingRate
 
@@ -3250,7 +3250,7 @@ Proc            SetSamplingRate
 
 EndP            SetSamplingRate
 
-;�������������������������������������������������������������������������������
+;───────────────────────────────────────────────────────────────────────────────
 
 Proc            SetMIDIIRQ
 
@@ -3292,7 +3292,7 @@ Proc            SetMIDIIRQ
 
 EndP            SetMIDIIRQ
 
-;�������������������������������������������������������������������������������
+;───────────────────────────────────────────────────────────────────────────────
 
 Proc            SetIRQ
 
@@ -3335,7 +3335,7 @@ Proc            SetIRQ
 EndP            SetIRQ
                 Assume DS:Nothing
 
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            ResetIRQ
 
@@ -3371,7 +3371,7 @@ Proc            ResetIRQ
 EndP            ResetIRQ
                 Assume DS:Nothing
 
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            InitMIDI
 
@@ -3394,7 +3394,7 @@ DetectMIDIEnd:
 
 EndP            InitMIDI
 
-;�� InitSound �����������������������������������������������������������������
+;── InitSound ─────────────────────────────────────────────────────────────────
 ;
 ; Sets up any memory required for output
 ; Initiates output
@@ -3413,7 +3413,7 @@ EndP            InitMIDI
 ; If unsucessful, returns:
 ;   Carry flag set
 ;
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            InitSound Far
 
@@ -3499,14 +3499,14 @@ InitSound2:
 
 EndP            InitSound
 
-;�� ReInitSound ���������������������������������������������������������������
+;── ReInitSound ───────────────────────────────────────────────────────────────
 ;
 ; Reinitialises sound output
 ; Initiates sound output
 ;
 ; Parameters: AX = number of channels.
 ;
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            ReInitSound Far
 
@@ -3550,11 +3550,11 @@ ReInitSound1:
 EndP            ReInitSound
                 Assume DS:Nothing
 
-;�� UnInitSound ���������������������������������������������������������������
+;── UnInitSound ───────────────────────────────────────────────────────────────
 ;
 ; Stops sound output, releases any memory used by driver
 ;
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            UnInitSound Far
 
@@ -3632,12 +3632,12 @@ UnInitSound1:
 EndP            UnInitSound
                 Assume DS:Nothing
 
-;�� Poll ����������������������������������������������������������������������
+;── Poll ──────────────────────────────────────────────────────────────────────
 ;
 ; This procedure is called as often as possible by IT.EXE
 ; AX = Playmode (0 for nothing in particular, 1 = pattern, 2 = song)
 ;
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            Poll Far
 
@@ -3671,11 +3671,11 @@ PollEnd:
 EndP            Poll
                 Assume DS:Nothing
 
-;�� SetTempo ������������������������������������������������������������������
+;── SetTempo ──────────────────────────────────────────────────────────────────
 ;
 ; Parameters: BX = tempo
 ;
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            SetTempo Far
 
@@ -3719,11 +3719,11 @@ SetTempo2:
 
 EndP            SetTempo
 
-;�� SetMixVolume ��������������������������������������������������������������
+;── SetMixVolume ──────────────────────────────────────────────────────────────
 ;
 ; Parameters: AX = MixVolume
 ;
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            SetMixVolume Far
 
@@ -3731,11 +3731,11 @@ Proc            SetMixVolume Far
 
 EndP            SetMixVolume
 
-;�� SetStereo �����������������������������������������������������������������
+;── SetStereo ─────────────────────────────────────────────────────────────────
 ;
 ; Parameters: AL = Stereo on/off, 0 = off.
 ;
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            SetStereo Far
 
@@ -3745,7 +3745,7 @@ Proc            SetStereo Far
 
 EndP            SetStereo
 
-;�� LoadSample ����������������������������������������������������������������
+;── LoadSample ────────────────────────────────────────────────────────────────
 ;
 ; Parameters: AX = sample to load
 ;             DS:SI points to sample header
@@ -3753,7 +3753,7 @@ EndP            SetStereo
 ;
 ; Returns: **Carry set if NO error**
 ;          **Carry clear if error**
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            LoadSample Far
                                         ; if no sample, then do nothing
@@ -3998,12 +3998,12 @@ LoadSamplePingPong:
 
 EndP            LoadSample
 
-;�� ReleaseSample �������������������������������������������������������������
+;── ReleaseSample ─────────────────────────────────────────────────────────────
 ;
 ; Parameters: AX = sample to release
 ;             DS:SI points to sample header
 ;
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            ReleaseSample Far
 
@@ -4033,11 +4033,11 @@ ReleaseSample1:
 
 EndP            ReleaseSample
 
-;�� ResetMemory ���������������������������������������������������������������
+;── ResetMemory ───────────────────────────────────────────────────────────────
 ;
 ;  Frees all on-board memory
 ;
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            ResetMemory Far
 
@@ -4056,12 +4056,12 @@ Proc            ResetMemory Far
 
 EndP            ResetMemory
 
-;�� GetStatus �����������������������������������������������������������������
+;── GetStatus ─────────────────────────────────────────────────────────────────
 ;
 ;  Returns text to show on status line, AX = display parameter
 ;  Carry set if not to show anything.
 ;
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            GetStatus Far
 
@@ -4080,11 +4080,11 @@ Proc            GetStatus Far
 
 EndP            GetStatus
 
-;�� SoundCardScreen �����������������������������������������������������������
+;── SoundCardScreen ───────────────────────────────────────────────────────────
 ;
 ;  Function to have driver interactive part of program
 ;
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            SoundCardScreen Far
 
@@ -4098,7 +4098,7 @@ Proc            SoundCardScreen Far
 
 EndP            SoundCardScreen
 
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            GetVariable Far         ; Returns AX, given DI
 
@@ -4108,7 +4108,7 @@ Proc            GetVariable Far         ; Returns AX, given DI
 
 EndP            GetVariable
 
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            SetVariable Far         ; Given AX, DI
 
@@ -4159,7 +4159,7 @@ Proc            SetVariable Far         ; Given AX, DI
 EndP            SetVariable
                 Assume DS:Nothing
 
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 Proc            UARTOut
 
@@ -4167,7 +4167,7 @@ Proc            UARTOut
 
 EndP            UARTOut
 
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 
 InterpretState  DB      0
@@ -4260,7 +4260,7 @@ SendUARTOutNoClear:
 
 EndP            SendUARTOut
 
-;������������������������������������������������������������������������������
+;──────────────────────────────────────────────────────────────────────────────
 
 EndDriver:
 

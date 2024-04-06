@@ -2,7 +2,7 @@
         .model tiny
         .code
 
-;ÄÄ Copyrights ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+;â”€â”€ Copyrights â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ; Impulse Tracker v2.14 *BELGIAN* Keyboard Definition File
 ; Copyright (C) 1998, SiDEWiNDER / DiMENSiON X
 ;
@@ -11,12 +11,12 @@
 ;
 ; Read BE.TXT for more details!!
 ;
-;ÄÄ Contact ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+;â”€â”€ Contact â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ; My Email: sidewind@mail.dma.be
 ; My Homepage: http://fly.to/SiDEWiNDER
 ; DiMENSiON X WHQ: http://travel.to/DiMENSiON.X
 ;
-;ÄÄ Assembling ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+;â”€â”€ Assembling â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ; to create the file:
 ;  TASM <filename>
 ;  TLINK /TDC <filename>
@@ -70,9 +70,9 @@ StartKeyboardTable:
          DW      '|'
          DB      0FFh
 
-        DB      3       ; ‚
+        DB      3       ; Ã©
          DB      0
-         DW      '‚'
+         DW      'Ã©'
          DB      3       ; 2
          DW      '2'
          DB      7       ; @
@@ -111,9 +111,9 @@ StartKeyboardTable:
          DW      '^'
          DB      0FFh
 
-        DB      8       ; Š
+        DB      8       ; Ã¨
          DB      0
-         DW      'Š'
+         DW      'Ã¨'
          DB      3       ; 7
          DW      '7'
          DB      0FFh
@@ -125,18 +125,18 @@ StartKeyboardTable:
          DW      '8'
          DB      0FFh
 
-        DB      10      ; ‡
+        DB      10      ; Ã§
          DB      0
-         DW      '‡'
+         DW      'Ã§'
          DB      3       ; 9
          DW      '9'
          DB      7       ; {
          DW      '{'
          DB      0FFh
 
-        DB      11      ; …
+        DB      11      ; Ã 
          DB      0
-         DW      '…'
+         DW      'Ã '
          DB      3       ; 0
          DW      '0'
          DB      7       ; }
@@ -146,8 +146,8 @@ StartKeyboardTable:
         DB      12      ; )
          DB      0
          DW      ')'
-         DB      3       ; ø
-         DW      'ø'
+         DB      3       ; Â°
+         DW      'Â°'
          DB      0FFh
 
         DB      13      ; -
@@ -281,7 +281,7 @@ StartKeyboardTable:
          DB      0
          DW      '^'
          DB      3       ; (trema)-dead-key...
-         DW      'ù'
+         DW      'âˆ™'
          DB      7       ; [
          DW      '['
          DB      0FFh
@@ -401,25 +401,25 @@ StartKeyboardTable:
          DW      'm'
          DB      0FFh
 
-        DB      40      ; —
+        DB      40      ; Ã¹
          DB      0
-         DW      '—'
+         DW      'Ã¹'
          DB      3       ; %
          DW      '%'
          DB      7       ; `
          DW      '`'
          DB      0FFh
 
-        DB      41      ; ı
+        DB      41      ; Â²
          DB      0
-         DW      'ı'
+         DW      'Â²'
          DB      0FFh
 
-        DB      43      ; æ
+        DB      43      ; Âµ
          DB      0
-         DW      'æ'
-         DB      3       ; œ
-         DW      'œ'
+         DW      'Âµ'
+         DB      3       ; Â£
+         DW      'Â£'
          DB      7       ; '
          DW      ''''
          DB      0FFh

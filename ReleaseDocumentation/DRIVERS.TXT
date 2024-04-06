@@ -7,7 +7,7 @@
 
   My favourite soundcard is the SBLive! produced by Creative Labs.
 
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
                                  Driver Summary
 
@@ -51,7 +51,7 @@ A) Depends on number of channels used. The hiquality GUS driver reinitialises
    instead.
 B) The mixing rate of the SBPro depends on whether playback is stereo or mono
 
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 PC Speaker (ITPCSPKR.DRV)
 
@@ -68,7 +68,7 @@ PC Speaker (ITPCSPKR.DRV)
 
         Note: Not for use with Win95
 
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 DAC on LPT 1/2 Drivers
 
@@ -90,7 +90,7 @@ DAC on LPT 1/2 Drivers
               of hiss through the speaker.
 
 
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 Gravis UltraSound, Hardware mixing (ITGUS.DRV)
 
@@ -138,7 +138,7 @@ Gravis UltraSound Lo-freq, Hardware mixing (ITGUSLO.DRV)
         This driver does not try to continuously reinitialise the card to use
         a minimum number of channels like the above two drivers do.
 
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 Gravis Ultrasound MAX - Software mixing (ITGUSMAX.DRV)
 
@@ -171,7 +171,7 @@ with both DMAs 6, with the same result. But the funny thing is, when I
 first play a song with both DMAs the same and then change them back to the
 original (6 and 7), it still works. I'm using IT v2.11 with ultrinit v2.31.
 
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 InterWave Driver - Hardware mixing (ITIW.DRV)
  (This includes GUS PnP, GUS PnP Pro, WavExtreme 32 Pro + more)
@@ -229,7 +229,7 @@ InterWave Driver - Hardware mixing (ITIW.DRV)
       Bug warning: If the sound does NOT play properly, you may need to
                    run IWINIT before running Impulse Tracker
 
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 Sound Blaster 1.0 driver (ITSB.DRV)
 
@@ -325,20 +325,20 @@ Sound Blaster 16 driver (ITSB16.DRV, ITSB16B.DRV, ITSB16C.DRV)
         input disabled (which seems to be causing all the problems on the
         cards which just won't 'play')
 
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 Sound Blaster AWE 32 drivers (ITAWE32.DRV, ITAWE32B.DRV)
 
         The Sound Blaster AWE 32 driver directly uses the EMU8000 synth chip.
         This synth chip has several limitations which you should be aware of:
 
-         ù It can only use 16-bit samples.
+         âˆ™ It can only use 16-bit samples.
            8 bit samples are automatically converted by IT (so that's not a
            problem), but your free memory may decrease by double of what you
            expect. (eg. you will need at least 1MB of memory to load 512k
            of 8 bit samples)
 
-         ù It doesn't support ping pong loops or no loops.
+         âˆ™ It doesn't support ping pong loops or no loops.
            IT will automatically expand ping pong loops and will pad non-looped
            samples with silence, but this makes sample sustain loops impossible
            to implement fully. It also means that ping pong looped samples
@@ -352,7 +352,7 @@ Sound Blaster AWE 32 drivers (ITAWE32.DRV, ITAWE32B.DRV)
            the samples each time (Ctrl-G). If you change the loop points on
            a sample, you *will* have to reload the samples (Ctrl-G)
 
-         ù Has a limited frequency range - from the programming information,
+         âˆ™ Has a limited frequency range - from the programming information,
            it seems that it is impossible to play a note at above 176kHz.
            This equates to any notes 2 octaves above middle C (or higher) for
            a sample at 44kHz. If a note is not played because of this
@@ -379,7 +379,7 @@ Sound Blaster AWE 32 drivers (ITAWE32.DRV, ITAWE32B.DRV)
 
               To access ITAWE32B.DRV, run "IT /sITAWE32B.DRV"
 
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 Pro Audio Spectrum (ITPAS.DRV)
 Pro Audio Spectrum 16 (ITPAS16.DRV)
@@ -393,7 +393,7 @@ Pro Audio Spectrum 16 (ITPAS16.DRV)
         Note: You NEED to have the MVSOUND.SYS driver installed for these
               to operate or a Window's system driver.
 
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 Windows Sound System (ITWSS.DRV, ITWSS2.DRV)
 
@@ -416,7 +416,7 @@ Windows Sound System (ITWSS.DRV, ITWSS2.DRV)
      of your WSS card to these values, in a similar manner to how the SB16
      driver operates.
 
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 ESS ES1868 AudioDrive (ITES1868.DRV)
 
@@ -430,7 +430,7 @@ ESS ES1868 AudioDrive (ITES1868.DRV)
     the programming information and Andrew Lee for lending me a card to
     program with!
 
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 ESS ES1688 AudioDrive (ITES1688.DRV)
 
@@ -439,7 +439,7 @@ ESS ES1688 AudioDrive (ITES1688.DRV)
 
     Thanks go to James Hsu / Synergy for providing me with a card to work on.
 
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 EWS64 XL Codec (ITEWSCOD.DRV)
 
@@ -450,9 +450,9 @@ EWS64 XL Codec (ITEWSCOD.DRV)
     card to use - especially Kay "Mod4Win" Bruns.
 
     Notes:
-    ş The settings within the EWS64 Codec driver are saved upon exiting.
+    â–  The settings within the EWS64 Codec driver are saved upon exiting.
 
-    ş The "Reverb Types" are:
+    â–  The "Reverb Types" are:
         0: Room1
         1: Room2
         2: Room3
@@ -465,7 +465,7 @@ EWS64 XL Codec (ITEWSCOD.DRV)
       The parameter "Reverb Feedback" only has meaning for Reverb Types Delay
       and Pan Delay (6 and 7)
 
-    ş The "Chorus Types" are:
+    â–  The "Chorus Types" are:
         0: Chorus1
         1: Chorus2
         2: Chorus3
@@ -476,7 +476,7 @@ EWS64 XL Codec (ITEWSCOD.DRV)
 
       Note: Chorus will only work with EWS64 XL rev 1.1 or greater
 
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 Ensoniq SoundscapeVIVO (ITVIVO.DRV)
 
@@ -486,7 +486,7 @@ Ensoniq SoundscapeVIVO (ITVIVO.DRV)
 
     The default mixing rate is 48kHz.
 
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 Sound Track PCI Codec (ITSTCODE.DRV)
 
@@ -501,9 +501,9 @@ Sound Track PCI Codec (ITSTCODE.DRV)
     not available on the ST42 cards. SRS settings are available.
 
     Notes:
-    ş The settings within the ST97 PCI Codec driver are saved upon exiting.
+    â–  The settings within the ST97 PCI Codec driver are saved upon exiting.
 
-    ş The "Reverb Types" are:
+    â–  The "Reverb Types" are:
         0: Room1
         1: Room2
         2: Room3
@@ -516,7 +516,7 @@ Sound Track PCI Codec (ITSTCODE.DRV)
       The parameter "Reverb Feedback" only has meaning for Reverb Types Delay
       and Pan Delay (6 and 7)
 
-    ş The "Chorus Types" are:
+    â–  The "Chorus Types" are:
         0: Chorus1
         1: Chorus2
         2: Chorus3
@@ -528,7 +528,7 @@ Sound Track PCI Codec (ITSTCODE.DRV)
     Huge thanks go to Hanmesoft Corporation for providing me with this awesome
     card to work on! (check out http://www.hoontech.com)
 
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 MPU401 MIDI Driver
 
@@ -544,7 +544,7 @@ MPU401 MIDI Driver
 
     Addresses 330h and 300h are checked if a port is NOT specified.
 
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 Disk Writer
 
@@ -557,13 +557,13 @@ Disk Writer
         some sort of (monetary) agreement (US$30 for non-profit use)
 
         Details
-         ş 16 bit Stereo/Mono output
-         ş 22kHz to 64kHz output frequency
-         ş 16 bit quadratic spline interpolation (65536x 'oversampling')
-         ş 32 bit mixing
-         ş Logarithmic volume ramping with 32768 internal volumes levels.
-         ş Sample cut click removal techniques
-         ş Resonant filtering
+         â–  16 bit Stereo/Mono output
+         â–  22kHz to 64kHz output frequency
+         â–  16 bit quadratic spline interpolation (65536x 'oversampling')
+         â–  32 bit mixing
+         â–  Logarithmic volume ramping with 32768 internal volumes levels.
+         â–  Sample cut click removal techniques
+         â–  Resonant filtering
 
         To use the disk writer, run: "IT /sITWAV.DRV" or "IT /s20".
         The files will be created in the same directory as IT.EXE,
@@ -573,5 +573,5 @@ Disk Writer
         It is greatly suggested to use a disk cache to improve the
         writing speed.
 
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 

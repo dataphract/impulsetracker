@@ -142,7 +142,7 @@ Tor Erik Arntzen                   Norway
 Nicolas Arrouet      Onix4MAN      France
 Patrick Arzul                      Sth Africa  Big contribution, thanks!
 Tal Asa
-Peter Askelîf                      Sweden
+Peter Askel√∂f                      Sweden
 Hans-Joachim Backe                 Germany
 Martin Bahner                      Norway
 Erick Baker                        USA         Big contribution, thanks!
@@ -176,7 +176,7 @@ Alexander Brandon    Siren         USA
 Yannis Brown         Yannis        Australia
 Remko Brugman        Digistorm     Netherlands
 Michael Buchholtz                  Germany     Big contribution, thanks!
-Jîrg Burbach                       Germany
+J√∂rg Burbach                       Germany
 Mike Burrell         MikPos        Canada
 Clay Busker                        USA         Big contribution, thanks!
 Jeremy Butcher                     Netherlands
@@ -370,7 +370,7 @@ Peter Kunath                       Germany     MEGA HUGE contribution, thanks!
 Rich La Bonte        Flatrich      USA
 Michael Ladanyi                    Canada
 Brian J LaMattina                  USA
-Perttu LamminmÑki                  Finland
+Perttu Lamminm√§ki                  Finland
 William Lamy         willbe        France
 Adam Langdon-Thomas                UK
 Janet Lankester                    USA
@@ -385,7 +385,7 @@ Randy Locklair                     USA         MEGA HUGE contribution, thanks!
 Michael Loftus                     USA         MEGA HUGE contribution, thanks!
 Kris Long                          USA
 Jerome Majewski                    USA         HUGE contribution, thanks!
-Sami MÑkinen                       Finland
+Sami M√§kinen                       Finland
 Don Manton                         Canada
 Peter Mares                        South Africa
 Anthony Marin        Verminator    USA
@@ -414,7 +414,7 @@ Tracey Miller                      Australia   Big contribution, thanks!
 Matthew Mitchell                   USA         Big contribution, thanks!
 Chun-Yan Miu                       Hong Kong
 Mauro Molinari       DjM           Italy
-Lutz Mîller                        Germany
+Lutz M√∂ller                        Germany
 Jo Moore                           USA
 Freddy Mousseau                    France
 Marten Mons                        Netherlands
@@ -511,7 +511,7 @@ Martijn Sneijder                   Netherlands
 Trond Smevik         Poke          Norway
 Greg Smith                         Canada
 Zachary Smith        Dr. Zachary   USA
-Christoph Sîllner    AGENT S       Germany
+Christoph S√∂llner    AGENT S       Germany
 Scott Sorenson                     USA
 Nicolas Soudee       Zoner         USA         Big contribution, thanks!
 Michael Soutar       MSoutar       Australia
@@ -543,7 +543,7 @@ Brad Turcotte                      Canada
 Michael Twarkowsky                 Germany
 Asbjorn Ulsberg                    Norway
 Martin Underwood                   UK
-Jani VÑisÑnen                      Finland
+Jani V√§is√§nen                      Finland
 Mathew Valente       TSSF          Canada
 David Van Dromme     Stormlord     Belgium
 Ryan Van Eerdewijk                 Canada

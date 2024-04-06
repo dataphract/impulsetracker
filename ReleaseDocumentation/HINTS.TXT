@@ -1,4 +1,4 @@
- ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 Hints for Composers
  -- Pulse
@@ -80,7 +80,7 @@ Well, I'm not the best person to ask for hints, but here are a few anyway.
     frequencies. Songs with too much bass and too little treble sound rough,
     songs with too much treble and too little bass sound insubstantial.
 
- ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 Hints for New Composers
 -- John Hawksley (a.k.a. Greebo)
@@ -150,7 +150,7 @@ Good luck!
 
 John H.
 
- ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 Hints for Composers
 -- ToalNkor / Realtech
@@ -172,7 +172,7 @@ Hints for Composers
   After all these operations, dont't forget to multiply the mixfrequency
   by two to get the original samplingfrequency back !
 
- ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
  Hints for New Composers
  -- StereoMan
@@ -182,9 +182,9 @@ Hints for Composers
     higher the playing frequency of one of the samples - ie:
 
            1            2                             2          (1 is same)
-    ³... .. .. Xpp³... .. .. Xpp³              ³... .. .. Xpp³
-    ³xxx ii xx ...³xxx ii xx EE1³      or      ³xxx ii xx u11³
-    ³... .. .. ...³... .. .. ...³              ³... .. .. u00³
+    â”‚... .. .. Xppâ”‚... .. .. Xppâ”‚              â”‚... .. .. Xppâ”‚
+    â”‚xxx ii xx ...â”‚xxx ii xx EE1â”‚      or      â”‚xxx ii xx u11â”‚
+    â”‚... .. .. ...â”‚... .. .. ...â”‚              â”‚... .. .. u00â”‚
                                                           u00 and so on.
     <pp>  has the same value in the two channels.
     <ii>  is your instrument number.
@@ -193,7 +193,7 @@ Hints for Composers
  2) You can use the above mentioned effect, but instead of having the channels
     with the same pan position you can put them as Left and Right (full) ie:
 
-    ³... .. .. X00³... .. .. XFF|
+    â”‚... .. .. X00â”‚... .. .. XFF|
                 . . .
 
     this will give you a smooth three dimensional sound.
@@ -210,13 +210,13 @@ Hints for Composers
      associated with notes (alt-w). Then apply a Dx0 effect (x=1..4 or more)
      for example:
 
-     ³n1. i. .. ...³... .. .. ...³          The results are very good.
-     ³n2. i. .. ...³n1. i. 00 D20³          Once you get used to this you can
-     ³... .. .. ...³n2. i. 00 D..³          achieve !very! smooth sound.
-     ³n3. i. .. ...³... .. .. D..³
-     ³... .. .. ...³n3. i. 00 D..³          The samples must not be too short
-     ³n4  i. .. ...³... .. .. D..³          so Dx0 can take effect.
-     ³... .. .. ...³n4. i. 00 D..³
+     â”‚n1. i. .. ...â”‚... .. .. ...â”‚          The results are very good.
+     â”‚n2. i. .. ...â”‚n1. i. 00 D20â”‚          Once you get used to this you can
+     â”‚... .. .. ...â”‚n2. i. 00 D..â”‚          achieve !very! smooth sound.
+     â”‚n3. i. .. ...â”‚... .. .. D..â”‚
+     â”‚... .. .. ...â”‚n3. i. 00 D..â”‚          The samples must not be too short
+     â”‚n4  i. .. ...â”‚... .. .. D..â”‚          so Dx0 can take effect.
+     â”‚... .. .. ...â”‚n4. i. 00 D..â”‚
 
 
   4) If you make the above channels with different pan positions (x22 and xDD)
@@ -246,7 +246,7 @@ Hints for Composers
 
                             George Marinov a.k.a. StereoMan - <georgehm@bse.bg>
 
- ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 Hints for composers
 -- Ilpo Karkkainen
@@ -263,7 +263,7 @@ Hints for composers
 - Details make the whole. Use them wisely, though. Too much details make the
   song sound bad. I've noticed that in some of my songs.
 
- ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
                             Onix4MAN's hints
 
@@ -388,7 +388,7 @@ In the following examples, I've set the Panning in the Volume column
 
                                 - Nicolas ARROUET (Onix4MAN) o4m@mail.cpod.fr
 
- ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 Hints for new composers.
 - Nacho Segura
@@ -469,7 +469,7 @@ accoustic. Don't be apologized for sending eight dollars. Is better than zero.
 Even if you don't want the ITWAV.DRV you should contribute, at least with a
 simbolic quantity. He has won it.
 
- ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 Hints for composers
 -- Joakim "Acoustic" Back
@@ -523,7 +523,7 @@ Thanks for reading, I hope it will help you somehow.
 / Acoustic
 n98joab@tycho.helsingborg.se
 
- ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 Hints for Composers
 - Maarten Van Stien

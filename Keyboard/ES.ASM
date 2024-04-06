@@ -67,8 +67,8 @@ StartKeyboardTable:
 	DB	4	; 3
 	 DB	 0
 	 DW	 '3'
-	 DB	 3	 ; ú
-	 DW	 'ú'
+	 DB	 3	 ; Â·
+	 DW	 'Â·'
 	 DB	 5	 ; #
 	 DW	 '#'
 	 DB	 0FFh
@@ -94,8 +94,8 @@ StartKeyboardTable:
 	 DW	 '6'
 	 DB	 3	 ; &
 	 DW	 '&'
-	 DB	 5	 ; ª
-	 DW	 'ª'
+	 DB	 5	 ; Â¬
+	 DW	 'Â¬'
 	 DB	 0FFh
 
 	DB	8	; 7
@@ -133,11 +133,11 @@ StartKeyboardTable:
 	 DW	 '?'
 	 DB	 0FFh
 
-	DB	13	; ­
+	DB	13	; Â¡
 	 DB	 0
-	 DW	 '­'
-	 DB	 3	 ; ¨
-	 DW	 '¨'
+	 DW	 'Â¡'
+	 DB	 3	 ; Â¿
+	 DW	 'Â¿'
 	 DB	 0FFh
 
 	DB	14	; Backspace
@@ -377,36 +377,36 @@ StartKeyboardTable:
 	 DW	 2600h
 	 DB	 0FFh
 
-	DB	39	; ¤
+	DB	39	; Ã±
 	 DB	 0
-	 DW	 '¤'
-	 DB	 3	 ; ¥
-	 DW	 '¥'
+	 DW	 'Ã±'
+	 DB	 3	 ; Ã‘
+	 DW	 'Ã‘'
 	 DB	 0FFh
 
 	DB	40	; '
 	 DB	 0
 	 DW	 "'"
-	 DB	 3	 ; ù
-	 DW	 'ù'
+	 DB	 3	 ; âˆ™
+	 DW	 'âˆ™'
 	 DB	 5	 ; {
 	 DW	 '{'
 	 DB	 0FFh
 
-	DB	41	; §
+	DB	41	; Âº
 	 DB	 0
-	 DW	 '§'
-	 DB	 3	 ; ¦
-	 DW	 '¦'
+	 DW	 'Âº'
+	 DB	 3	 ; Âª
+	 DW	 'Âª'
 	 DB	 5	 ; \
 	 DW	 '\'
 	 DB	 0FFh
 
-	DB	43	; ‡
+	DB	43	; Ã§
 	 DB	 0
-	 DW	 '‡'
-	 DB	 3	 ; €
-	 DW	 '€'
+	 DW	 'Ã§'
+	 DB	 3	 ; Ã‡
+	 DW	 'Ã‡'
 	 DB	 5	 ; }
 	 DW	 '}'
 	 DB	 0FFh

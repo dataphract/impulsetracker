@@ -4,7 +4,7 @@ Impulse Tracker
 Full source code for Impulse Tracker, including sound drivers, network drivers,
 and some supporting documentation
 
- 
+┬á
 
 Pre-Requisite Software
 ----------------------
@@ -19,7 +19,7 @@ To build Impulse Tracker, you will need:
 
 -   A DOS environment
 
- 
+┬á
 
 Once you have these, building IT.EXE should be just a single call to `MAKE`
 
@@ -27,7 +27,7 @@ Once you have these, building IT.EXE should be just a single call to `MAKE`
 Sound drivers are build individually via M\*.BAT files inside the SoundDrivers
 subdirectory
 
- 
+┬á
 
 Quick File Overview
 -------------------
@@ -129,7 +129,7 @@ A: The original code was compatible all the way back to an 8086 machine. 8086 wo
 conditional jumps only within +/-128 bytes, so I spent too much time shuffling code around to meet 
 this restriction. When I shifted away from this 8086 restriction, I never went back to update the 
 code that was mutilated by it.
- 
+┬á
 
 
 License
